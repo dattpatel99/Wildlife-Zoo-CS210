@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# Wildlife-Zoo-CS210
 
 The project was about importing data from a file called 'zoodata.txt' and adding data into a vector which user can add, and remove elements from. Then the user can overwrtie the zoodata file and save the data in the vector to the same file. This project was to show how to intergrate two languages: C++ and Java.
 
